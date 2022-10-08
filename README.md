@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and C#**
 
-- ⚙ I’m working on my **Portfolio**
+- ⚙ I’m working on my **Portfolio** (Soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
