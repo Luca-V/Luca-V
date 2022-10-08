@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Java and C#**
 
+- ⚙ I’m on my **Portfolio**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/luccavalentini" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/87208955/194560813-4c8381d4-33ae-4205-8e99-f200db47c26f.png" alt="Luca-V" height="40" width="40" /></a>
