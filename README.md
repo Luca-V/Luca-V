@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://instagram.com/luccavalentini" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/87208955/194560813-4c8381d4-33ae-4205-8e99-f200db47c26f.png" alt="Luca-V" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=543564628144" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/87208955/194731017-5ddf4665-5582-409a-9d5c-5c98c1be8f40.png" alt="Luca-V" height="40" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucav558@gmail.com&su=&body=" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/87208955/194731128-d89fa29c-0719-4efb-ac2a-beeca2d3ceba.png" alt="Luca-V" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
