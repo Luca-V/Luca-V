@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and C#**
 
-- ⚙ I’m working on my **Portfolio** (Soon)
+- ⚙ **My Official Portfolio**: [here](https://luca-valentini.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
