@@ -41,7 +41,7 @@
 
 [![Luca's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Luca-V&&theme=xcode)](https://github.com/Luca-V)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luca-V&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Luca-V" /></p>
+<br/><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luca-V&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Luca-V" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Luca-V&show_icons=true&locale=en&theme=tokyonight" alt="Luca-V" /></p>
 
