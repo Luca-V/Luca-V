@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend/backend developer from Argentina</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **@pos-cloud Organization**
+- 🔭 I’m currently working on **@pos-cloud & @Eternity-BOT Organization**
 
 - 🌱 I’m currently learning **Java and C#**
 
@@ -43,6 +43,6 @@
 
 <br/><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luca-V&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Luca-V" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Luca-V&show_icons=true&locale=en&theme=tokyonight" alt="Luca-V" /></p>
+<br/><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Luca-V&show_icons=true&locale=en&theme=tokyonight" alt="Luca-V" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Luca-V&&theme=tokyonight" alt="Luca-V" /></p>
+<br/><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Luca-V&&theme=tokyonight" alt="Luca-V" /></p>
