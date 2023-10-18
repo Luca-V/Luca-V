@@ -1,5 +1,6 @@
 ## Hi there, I'm Luca 👋
-<h3 align="center">A passionate frontend/backend developer from Argentina</h3>
+<p align="center">A passionate frontend/backend developer from Argentina</p>
+
 
 ## About me 🧑‍💻
 <p align="justify">
